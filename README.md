@@ -1,6 +1,6 @@
 # Modmail
 
-Example config:
+Example config.yml:
 
 ```yaml
 #Your bot's token
